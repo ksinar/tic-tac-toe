@@ -2,4 +2,6 @@ Code by: Kaan Sinar
 
 This is a small command-line tic tac toe game I wrote in Java.
 
-Compile and run it like you would a regular Java program.
+Compilation: `javac tic-tac-toe.java`
+
+Run: `java tic-tac-toe`
